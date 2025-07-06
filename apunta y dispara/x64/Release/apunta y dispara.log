@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\4egmo\Desktop\infoXportable\Programación\Prácticas diarias VS\Práctica #14_Apunta y dispara\apunta y dispara\apunta y dispara\main.cpp(232,10): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+  Generando código
+  1 of 189 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  apunta y dispara.vcxproj -> C:\Users\4egmo\Desktop\infoXportable\Programación\Prácticas diarias VS\Práctica #14_Apunta y dispara\apunta y dispara\x64\Release\apunta y dispara.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\claseNave.h.obj",
+            "outputs": [
+                "C:\\Users\\4egmo\\Desktop\\infoXportable\\Programación\\Prácticas diarias VS\\Práctica #14_Apunta y dispara\\apunta y dispara\\apunta y dispara\\Debug\\vc143.pdb",
+                "Debug\\",
+                "C:\\Users\\4egmo\\Desktop\\infoXportable\\Programación\\Prácticas diarias VS\\Práctica #14_Apunta y dispara\\apunta y dispara\\apunta y dispara\\Debug\\claseNave.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "claseNave.h",
+                    "source-path": "c:\\users\\4egmo\\desktop\\infoxportable\\programación\\prácticas diarias vs\\práctica #14_apunta y dispara\\apunta y dispara\\apunta y dispara\\clasenave.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
